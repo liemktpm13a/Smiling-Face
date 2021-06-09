@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SmilingFace</string>
+    <string name="auth_failed">Sai email</string>
+    <string name="email">Email</string>
+    <string name="password">Type password</string>
+    <string name="minimum_password">Phai lon hon 6 ky tu</string>
+    <string name="btn_forgot_password">Forgot password?</string>
+    <string name="link_register">Register here</string>
+    <string name="name">Your name</string>
+    <string name="sign_in">Sign in</string>
+    <string name="link_login">Sign in</string>
+    <string name="forgot_password_msg">We just need your registered Email Id to sent you password reset instructions.</string>
+</resources>
